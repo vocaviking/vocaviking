@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-04-10T13:12:30">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-04-13T16:49:45">
 <Vokabel>
 <ID>5</ID>
 <Kana>五</Kana>
@@ -3816,6 +3816,7 @@
 <ID>287</ID>
 <Kana>高い</Kana>
 <KunYomi>たかい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
 <Wortstamm>高</Wortstamm>
 <Stichworte>Genki I - Chapter II</Stichworte>
 <Englisch>expensive;high</Englisch>
@@ -4764,6 +4765,1330 @@
 <Art>0</Art>
 </Vokabel>
 <Vokabel>
+<ID>731</ID>
+<Kana>遅くなる</Kana>
+<KunYomi>おそくなる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>遅くな</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to be late</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>732</ID>
+<Kana>思う</Kana>
+<KunYomi>おもう</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>思</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to think</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>733</ID>
+<Kana>切る</Kana>
+<KunYomi>きる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>切</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to cut</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>734</ID>
+<Kana>作る</Kana>
+<KunYomi>つくる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>作</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to make</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>735</ID>
+<Kana>持っていく</Kana>
+<KunYomi>もっていく</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>持ってい</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to take (a thing)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>736</ID>
+<Kana>じろじろ見る</Kana>
+<KunYomi>じろじろみる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>じろじろ見</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to stare (at …)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>737</ID>
+<Kana>捨てる</Kana>
+<KunYomi>すてる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>捨て</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to throw away</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>738</ID>
+<Kana>始める</Kana>
+<KunYomi>はじめる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>始め</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to begin</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>739</ID>
+<Kana>運転する</Kana>
+<KunYomi>うんてんする</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>運転</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to drive</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>740</ID>
+<Kana>洗濯する</Kana>
+<KunYomi>せんたくする</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>洗濯</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to do laundry</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>741</ID>
+<Kana>掃除する</Kana>
+<KunYomi>そうじする</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>掃除</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to clean</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>742</ID>
+<Kana>電話する</Kana>
+<KunYomi>でんわする</KunYomi>
+<Beschreibung>～に</Beschreibung>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>電話</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to call</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>743</ID>
+<Kana>料理する</Kana>
+<KunYomi>りょうりする</KunYomi>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>料理</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to cook</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>744</ID>
+<KunYomi>いつも</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>always</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>745</ID>
+<KunYomi>ううん</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>uh-uh;no</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>746</ID>
+<KunYomi>うん</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>uh-huh;yes</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>747</ID>
+<Kana>乾杯</Kana>
+<KunYomi>かんぱい</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>Cheers! (a toast)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>748</ID>
+<Kana>残念（ですね）</Kana>
+<KunYomi>ざんねん（ですね）</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>That&apos;s too bad.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>749</ID>
+<KunYomi>～について</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>about …;concerning …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>750</ID>
+<KunYomi>まだ + negative</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>not … yet</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>751</ID>
+<KunYomi>みんなで</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>all (of the people) together</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>752</ID>
+<Kana>いい子</Kana>
+<KunYomi>いいこ</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>good child</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>758</ID>
+<Kana>薬</Kana>
+<KunYomi>くすり</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>medicine</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>759</ID>
+<Kana>薬を飲む</Kana>
+<KunYomi>くすりをのむ</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to take medicine</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>760</ID>
+<Kana>コンサート</Kana>
+<KunYomi>こんさーと</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>concert</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>761</ID>
+<Kana>今度</Kana>
+<KunYomi>こんど</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>near future</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>762</ID>
+<Kana>作文</Kana>
+<KunYomi>さくぶん</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>essay;composition</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>763</ID>
+<Kana>試験</Kana>
+<KunYomi>しけん</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>exam</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>764</ID>
+<Kana>スキー</Kana>
+<KunYomi>すきー</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>ski</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>765</ID>
+<Kana>先月</Kana>
+<KunYomi>せんげつ</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>last month</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>766</ID>
+<Kana>単語</Kana>
+<KunYomi>たんご</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>word;vocabulary</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>767</ID>
+<Kana>ピアノ</Kana>
+<KunYomi>ぴあの</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>piano</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>768</ID>
+<Kana>ピザ</Kana>
+<KunYomi>ぴざ</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>pizza</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>769</ID>
+<Kana>病気</Kana>
+<KunYomi>びょうき</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>illness;sickness</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>770</ID>
+<Kana>青い</Kana>
+<KunYomi>あおい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>青</Wortstamm>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>blue</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>771</ID>
+<Kana>赤い</Kana>
+<KunYomi>あかい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>赤</Wortstamm>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>red</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>772</ID>
+<Kana>黒い</Kana>
+<KunYomi>くろい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>黒</Wortstamm>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>black</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>773</ID>
+<Kana>寂しい</Kana>
+<KunYomi>さびしい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>寂し</Wortstamm>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>lonely</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>774</ID>
+<Kana>白い</Kana>
+<KunYomi>しろい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>白</Wortstamm>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>white</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>775</ID>
+<Kana>若い</Kana>
+<KunYomi>わかい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>若</Wortstamm>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>young</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>776</ID>
+<Kana>意地悪(な)</Kana>
+<KunYomi>いじわる(な)</KunYomi>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>意地悪</Wortstamm>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>mean-spirited</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>777</ID>
+<Kana>踊る</Kana>
+<KunYomi>おどる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to dance</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>778</ID>
+<Kana>終わる</Kana>
+<KunYomi>おわる</KunYomi>
+<Beschreibung>～が</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>(something) ends</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>780</ID>
+<Kana>始まる</Kana>
+<KunYomi>はじまる</KunYomi>
+<Beschreibung>～が</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>(something) begins</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>781</ID>
+<Kana>弾く</Kana>
+<KunYomi>ひく</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to play (a string instrument or piano)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>782</ID>
+<KunYomi>もらう</KunYomi>
+<Beschreibung>person 二;thing を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to get (from somebody)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>783</ID>
+<Kana>覚える</Kana>
+<KunYomi>おぼえる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to memorize</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>784</ID>
+<Kana>出る</Kana>
+<KunYomi>でる</KunYomi>
+<Beschreibung>～に (for to appear;to attend) ～を (for to exit)</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to appear;to attend;to exit</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>785</ID>
+<Kana>運動する</Kana>
+<KunYomi>うんどうする</KunYomi>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to do physical exercises</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>966</ID>
+<Kana>発音</Kana>
+<KunYomi>はつおん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>pronunciation</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>967</ID>
+<Kana>文法</Kana>
+<KunYomi>ぶんぽう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>grammar</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>968</ID>
+<Kana>質問</Kana>
+<KunYomi>しつもん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>question</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>969</ID>
+<Kana>答え</Kana>
+<KunYomi>こたえ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>answer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>970</ID>
+<KunYomi>かっこ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>parenthesis</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>971</ID>
+<KunYomi>まる</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>correct</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>972</ID>
+<KunYomi>ばつ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>wrong</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>973</ID>
+<Kana>くだけた言い方</Kana>
+<KunYomi>くだけたいいかた</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>colloquial expression</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>974</ID>
+<Kana>かたい言い方</Kana>
+<KunYomi>かたいいいかた</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>bookish expression</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>975</ID>
+<Kana>ていねいな言い方</Kana>
+<KunYomi>ていねいないいかた</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>polite expression</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>976</ID>
+<Kana>方言</Kana>
+<KunYomi>ほうげん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>dialect</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>977</ID>
+<Kana>標準語</Kana>
+<KunYomi>ひょうじゅんご</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>standard Japanese</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>978</ID>
+<KunYomi>たとえば</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>for example</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>979</ID>
+<KunYomi>ほかに</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>anything else</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>980</ID>
+<Kana>～番</Kana>
+<KunYomi>～ばん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>number …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>981</ID>
+<Kana>～ページ</Kana>
+<KunYomi>～ぺーじ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>page number …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>982</ID>
+<Kana>～行目</Kana>
+<KunYomi>～ぎょうめ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>line number …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>983</ID>
+<Kana>二人ずつ</Kana>
+<KunYomi>ふたりずつ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>two people each</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>984</ID>
+<Kana>例</Kana>
+<KunYomi>れい</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>example</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>985</ID>
+<Kana>足</Kana>
+<KunYomi>あし</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>leg;foot</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>991</ID>
+<Kana>彼</Kana>
+<KunYomi>かれ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>boyfriend</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>992</ID>
+<Kana>気温</Kana>
+<KunYomi>きおん</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>temperature (weather - not used for things)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>993</ID>
+<Kana>曇り</Kana>
+<KunYomi>くもり</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>cloudy weather</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>994</ID>
+<Kana>試合</Kana>
+<KunYomi>しあい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>match;game</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>996</ID>
+<Kana>政治</Kana>
+<KunYomi>せいじ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>politics</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>997</ID>
+<Kana>成績</Kana>
+<KunYomi>せいせき</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>grade (on a test, etc.)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>998</ID>
+<KunYomi>せき</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>cough</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>999</ID>
+<KunYomi>のど</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>throat</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1001</ID>
+<Kana>花</Kana>
+<KunYomi>はな</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>flower</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1002</ID>
+<Kana>晴れ</Kana>
+<KunYomi>はれ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>sunny weather</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1003</ID>
+<Kana>服</Kana>
+<KunYomi>ふく</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>clothes</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1004</ID>
+<Kana>二日酔い</Kana>
+<KunYomi>ふつかよい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>hangover</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1005</ID>
+<Kana>プレセント</Kana>
+<KunYomi>ぷれせんと</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>present</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1006</ID>
+<Kana>ホームシック</Kana>
+<KunYomi>ほーむしっく</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>homesickness</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1007</ID>
+<Kana>マイナス</Kana>
+<KunYomi>まいなす</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>minus</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1008</ID>
+<Kana>物</Kana>
+<KunYomi>もの</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>thing (concrete object)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1009</ID>
+<Kana>雪</Kana>
+<KunYomi>ゆき</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>snow</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1010</ID>
+<Kana>用事</Kana>
+<KunYomi>ようじ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>business to take care of</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1011</ID>
+<Kana>甘い</Kana>
+<KunYomi>あまい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>sweet</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1012</ID>
+<Kana>痛い</Kana>
+<KunYomi>いたい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>hurt;painful</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1013</ID>
+<Kana>多い</Kana>
+<KunYomi>おおい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>there are many …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1014</ID>
+<Kana>狭い</Kana>
+<KunYomi>せまい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>narrow;not spacious</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1015</ID>
+<Kana>都合が悪い</Kana>
+<KunYomi>つごうがわるい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>inconvenient;to have a scheduling conflict</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1016</ID>
+<Kana>悪い</Kana>
+<KunYomi>わるい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>bad</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1017</ID>
+<Kana>素敵(な)</Kana>
+<KunYomi>すてき(な)</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>nice</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1018</ID>
+<Kana>歩く</Kana>
+<KunYomi>あるく</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to walk</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1019</ID>
+<Kana>風邪をひく</Kana>
+<KunYomi>かぜをひく</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to catch a cold</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1020</ID>
+<Kana>興味がある</Kana>
+<KunYomi>きょうみがある</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to be interested (in …)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1021</ID>
+<KunYomi>なくす</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to lose</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
 <ID>422</ID>
 <KunYomi>わかりましたか。</KunYomi>
 <Stichworte>Genki I - Chapter II</Stichworte>
@@ -5451,6 +6776,7 @@
 <ID>528</ID>
 <Kana>好き(な)</Kana>
 <KunYomi>すき(な)</KunYomi>
+<Beschreibung>～が</Beschreibung>
 <Wortart>Adjektiv;な-Adjektiv</Wortart>
 <Wortstamm>好き</Wortstamm>
 <Stichworte>Genki I - Chapter V</Stichworte>
@@ -5466,6 +6792,7 @@
 <ID>529</ID>
 <Kana>大嫌い(な)</Kana>
 <KunYomi>だいきらい(な)</KunYomi>
+<Beschreibung>～が</Beschreibung>
 <Wortart>Adjektiv;な-Adjektiv</Wortart>
 <Wortstamm>大嫌い</Wortstamm>
 <Stichworte>Genki I - Chapter V</Stichworte>
@@ -5481,6 +6808,7 @@
 <ID>530</ID>
 <Kana>大好き(な)</Kana>
 <KunYomi>だいすき(な)</KunYomi>
+<Beschreibung>～が</Beschreibung>
 <Wortart>Adjektiv;な-Adjektiv</Wortart>
 <Wortstamm>大好き</Wortstamm>
 <Stichworte>Genki I - Chapter V</Stichworte>
@@ -5539,6 +6867,7 @@
 <ID>534</ID>
 <Kana>聞く</Kana>
 <KunYomi>きく</KunYomi>
+<Beschreibung>person に</Beschreibung>
 <Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
 <Wortstamm>聞</Wortstamm>
 <Stichworte>Genki I - Chapter V</Stichworte>
@@ -5554,6 +6883,7 @@
 <ID>535</ID>
 <Kana>乗る</Kana>
 <KunYomi>のる</KunYomi>
+<Beschreibung>～に</Beschreibung>
 <Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
 <Wortstamm>乗</Wortstamm>
 <Stichworte>Genki I - Chapter V</Stichworte>
@@ -5568,6 +6898,7 @@
 <Vokabel>
 <ID>536</ID>
 <KunYomi>やる</KunYomi>
+<Beschreibung>～を</Beschreibung>
 <Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
 <Stichworte>Genki I - Chapter V</Stichworte>
 <Englisch>to do;to perform</Englisch>
@@ -5850,7 +7181,10 @@
 </Vokabel>
 <Vokabel>
 <ID>558</ID>
-<Stichworte>Genki I - Chapter V</Stichworte>
+<Kana>お金</Kana>
+<KunYomi>おかね</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>money</Englisch>
 <Woerterbuch>Genki I</Woerterbuch>
 <richtig>0</richtig>
 <falsch>0</falsch>
@@ -5920,6 +7254,7 @@
 <ID>524</ID>
 <Kana>嫌い(な)</Kana>
 <KunYomi>きらい(な)</KunYomi>
+<Beschreibung>～が</Beschreibung>
 <Wortart>Adjektiv;な-Adjektiv</Wortart>
 <Wortstamm>嫌い</Wortstamm>
 <Stichworte>Genki I - Chapter V</Stichworte>
@@ -5933,7 +7268,10 @@
 </Vokabel>
 <Vokabel>
 <ID>559</ID>
-<Stichworte>Genki I - Chapter V</Stichworte>
+<Kana>お風呂</Kana>
+<KunYomi>おふろ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>bath</Englisch>
 <Woerterbuch>Genki I</Woerterbuch>
 <richtig>0</richtig>
 <falsch>0</falsch>
@@ -5943,7 +7281,10 @@
 </Vokabel>
 <Vokabel>
 <ID>560</ID>
-<Stichworte>Genki I - Chapter V</Stichworte>
+<Kana>漢字</Kana>
+<KunYomi>かんじ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>kanji;Chinese character</Englisch>
 <Woerterbuch>Genki I</Woerterbuch>
 <richtig>0</richtig>
 <falsch>0</falsch>
@@ -5953,7 +7294,5528 @@
 </Vokabel>
 <Vokabel>
 <ID>561</ID>
-<Stichworte>Genki I - Chapter V</Stichworte>
+<Kana>教科書</Kana>
+<KunYomi>きょうかしょ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>textbook</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>567</ID>
+<Kana>電気</Kana>
+<KunYomi>でんき</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>electricity</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>568</ID>
+<Kana>電車</Kana>
+<KunYomi>でんしゃ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>train</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>569</ID>
+<Kana>荷物</Kana>
+<KunYomi>にもつ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>baggage</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>570</ID>
+<Kana>パソコン</Kana>
+<KunYomi>ぱそこん</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>personal computer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>571</ID>
+<Kana>ページ</Kana>
+<KunYomi>ぺーじ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>page</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>572</ID>
+<Kana>窓</Kana>
+<KunYomi>まど</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>window</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>573</ID>
+<Kana>夜</Kana>
+<KunYomi>よる</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>night</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>574</ID>
+<Kana>来週</Kana>
+<KunYomi>らいしゅう</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>next week</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>575</ID>
+<Kana>来年</Kana>
+<KunYomi>らいねん</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>next year</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>588</ID>
+<Kana>入る</Kana>
+<KunYomi>はいる</KunYomi>
+<Beschreibung>～に</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>入</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to enter</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>589</ID>
+<Kana>持つ</Kana>
+<KunYomi>もつ</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>持</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to carry;to hold</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>590</ID>
+<Kana>休む</Kana>
+<KunYomi>やすむ</KunYomi>
+<Beschreibung>～を (goes only with to be absent)</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>休</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to be absent (from …);to rest</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>591</ID>
+<Kana>開ける</Kana>
+<KunYomi>あける</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>開け</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to open (something)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>592</ID>
+<Kana>教える</Kana>
+<KunYomi>おしえる</KunYomi>
+<Beschreibung>person に;thing を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>教え</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to teach;to instruct</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>593</ID>
+<Kana>降りる</Kana>
+<KunYomi>おりる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>降り</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to get off</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>594</ID>
+<Kana>借りる</Kana>
+<KunYomi>かりる</KunYomi>
+<Beschreibung>person に;thing を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>借り</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to borrow</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>595</ID>
+<Kana>閉める</Kana>
+<KunYomi>しめる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>閉め</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to close (something)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>596</ID>
+<Kana>シャワーを浴びる</Kana>
+<KunYomi>しゃわーをあびる</KunYomi>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>シャワーを浴び</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to take a shower</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>597</ID>
+<KunYomi>つける</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>つけ</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to turn on</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>598</ID>
+<Kana>電話をかける</Kana>
+<KunYomi>でんわをかける</KunYomi>
+<Beschreibung>～に</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>電話をかけ</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to make a phone call</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>599</ID>
+<Kana>忘れる</Kana>
+<KunYomi>わすれる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>忘れる</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to forget;to leave behind</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>600</ID>
+<Kana>連れてくる</Kana>
+<KunYomi>つれてくる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>連れて</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to bring (a person)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>601</ID>
+<Kana>持ってくる</Kana>
+<KunYomi>もってくる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>持って</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to bring (a thing)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>602</ID>
+<Kana>後で</Kana>
+<KunYomi>あとで</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>later on</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>603</ID>
+<Kana>遅く</Kana>
+<KunYomi>おそく</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>(do something) late</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>604</ID>
+<KunYomi>～から</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>because …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>605</ID>
+<Kana>結構です</Kana>
+<KunYomi>けっこうです</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>That would be fine.;That wouldn&apos;t be necessary.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>606</ID>
+<KunYomi>すぐ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>right away</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>607</ID>
+<Kana>本当ですか。</Kana>
+<KunYomi>ほんとうですか。</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>Really?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>608</ID>
+<KunYomi>ゆっくり</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>slowly;leisurely;unhurriedly</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>610</ID>
+<Kana>左に曲がる</Kana>
+<KunYomi>ひだりにまがる</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>turn left</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>611</ID>
+<Kana>右に曲がる</Kana>
+<KunYomi>みぎにまがる</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>turn right</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>612</ID>
+<Kana>道を渡る</Kana>
+<KunYomi>みちをわたる</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>cross the street</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>613</ID>
+<Kana>二つ目の角を左に曲がる</Kana>
+<KunYomi>ふたつめのかどをひだりにまがる</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>turn left at the second corner</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>614</ID>
+<Kana>一つ目の信号を右に曲がる</Kana>
+<KunYomi>ひとつめのしんごうをみぎにまがる</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>turn right at the first traffic light</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>615</ID>
+<Kana>道の左側</Kana>
+<KunYomi>みちのひだりがわ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>left side of the street</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>616</ID>
+<Kana>道の右側</Kana>
+<KunYomi>みちのみぎがわ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>right side of the street</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>617</ID>
+<Kana>北</Kana>
+<KunYomi>きた</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>north</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>618</ID>
+<Kana>東</Kana>
+<KunYomi>ひがし</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>west</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>619</ID>
+<Kana>南</Kana>
+<KunYomi>みなみ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>south</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>562</ID>
+<Kana>今週</Kana>
+<KunYomi>こんしゅう</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>this week</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>563</ID>
+<Kana>シーデイー</Kana>
+<KunYomi>ちーでぃー</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>CD</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>564</ID>
+<Kana>市民病院</Kana>
+<KunYomi>しみんびょういん</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>municipal hospital</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>565</ID>
+<Kana>シャワー</Kana>
+<KunYomi>しゃわー</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>shower</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>566</ID>
+<Kana>次</Kana>
+<KunYomi>つぎ</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>next</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>576</ID>
+<Kana>大変(な)</Kana>
+<KunYomi>たいへん(な)</KunYomi>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>大変</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>tough (situation)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>577</ID>
+<Kana>遊ぶ</Kana>
+<KunYomi>あそぶ</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>遊</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to play;to spend time pleasantly</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>578</ID>
+<Kana>急ぐ</Kana>
+<KunYomi>いそぐ</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>急</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to hurry</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>579</ID>
+<Kana>お風呂に入る</Kana>
+<KunYomi>おふろにはいる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>お風呂に入</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to take a bath</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>580</ID>
+<Kana>返す</Kana>
+<KunYomi>かえす</KunYomi>
+<Beschreibung>person に; thing を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>返</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to return (a thing)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>581</ID>
+<Kana>消す</Kana>
+<KunYomi>けす</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>消</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to turn off;to erase</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>582</ID>
+<Kana>死ぬ</Kana>
+<KunYomi>しぬ</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>死</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to die</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>583</ID>
+<Kana>座る</Kana>
+<KunYomi>すわる</KunYomi>
+<Beschreibung>seat に</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>座</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to sit down</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>584</ID>
+<Kana>立つ</Kana>
+<KunYomi>たつ</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>立</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to stand up</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>585</ID>
+<Kana>たばこを吸う</Kana>
+<KunYomi>たばこをすう</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>たばこを吸</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to smoke</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>586</ID>
+<Kana>使う</Kana>
+<KunYomi>つかう</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>使</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to use</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>587</ID>
+<Kana>手伝う</Kana>
+<KunYomi>てつだう</KunYomi>
+<Beschreibung>person/task を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>手伝</Wortstamm>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>to help</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>620</ID>
+<Kana>西</Kana>
+<KunYomi>にし</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>east</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>621</ID>
+<Kana>すみません。郵便局はどこですか。</Kana>
+<KunYomi>すみません。ゆうびんきょくはどこですか。</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>Excuse me, where is a post office?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>622</ID>
+<Kana>まっすぐ行って、三つ目の角を右に曲がって、ください。郵便局は右側にありますよ。</Kana>
+<KunYomi>まっすぐいって、みっつめのかどをみぎにまがって、ください。ゆうびんきょくはみぎがわにありますよ。</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>Go straight and turn right at the third corner. The post office is on the right.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>623</ID>
+<KunYomi>どうもありがとうございます。</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>Thank you very much.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>625</ID>
+<Kana>アパート</Kana>
+<KunYomi>あぱーと</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>apartment</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>626</ID>
+<Kana>妹</Kana>
+<KunYomi>いもうと</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>younger sister</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>627</ID>
+<Kana>歌</Kana>
+<KunYomi>うた</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>song</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>628</ID>
+<KunYomi>おじいさん</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>grandfather;old man</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>629</ID>
+<Kana>弟</Kana>
+<KunYomi>おとうと</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>younger brother</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>630</ID>
+<Kana>男の人</Kana>
+<KunYomi>おとこのひと</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>man</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>631</ID>
+<Kana>お兄さん</Kana>
+<KunYomi>おにいさん</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>older brother</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>632</ID>
+<Kana>お姉さん</Kana>
+<KunYomi>おねえさん</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>older sister</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>633</ID>
+<KunYomi>おばあさん</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>grandmother;old woman</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>634</ID>
+<Kana>女の人</Kana>
+<KunYomi>おんなのひと</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>woman</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>635</ID>
+<Kana>会社</Kana>
+<KunYomi>かいしゃ</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>company</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>636</ID>
+<Kana>家族</Kana>
+<KunYomi>かぞく</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>family</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>637</ID>
+<Kana>髪</Kana>
+<KunYomi>かみ</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>hair</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>638</ID>
+<Kana>兄弟</Kana>
+<KunYomi>きょうだい</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>brothers and sisters</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>639</ID>
+<Kana>口</Kana>
+<KunYomi>くち</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>mouth</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>640</ID>
+<Kana>国</Kana>
+<KunYomi>くに</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>country;place of origin</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>641</ID>
+<Kana>車</Kana>
+<KunYomi>くるま</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>car</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>642</ID>
+<Kana>ゲーム</Kana>
+<KunYomi>げーむ</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>game</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>648</ID>
+<Kana>母</Kana>
+<KunYomi>はは</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>(my) mother</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>649</ID>
+<Kana>目</Kana>
+<KunYomi>め</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>eye</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>650</ID>
+<Kana>眼鏡</Kana>
+<KunYomi>めがね</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>glasses</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>651</ID>
+<Kana>頭がいい</Kana>
+<KunYomi>あたまがいい</KunYomi>
+<Beschreibung>conjugates like 良い</Beschreibung>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>頭がい</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>bright;smart;clever</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>652</ID>
+<KunYomi>かわいい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>かわい</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>cute</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>653</ID>
+<Kana>背が高い</Kana>
+<KunYomi>せがたかい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>背が高</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>tall (stature)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>654</ID>
+<Kana>背が低い</Kana>
+<KunYomi>せがひくい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>背が低</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>short (stature)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>655</ID>
+<Kana>長い</Kana>
+<KunYomi>ながい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>長</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>long</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>656</ID>
+<Kana>速い</Kana>
+<KunYomi>はやい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>速</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>fast</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>657</ID>
+<Kana>短い</Kana>
+<KunYomi>みじかい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>短</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>short (length)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>609</ID>
+<Kana>まっすぐ行く</Kana>
+<KunYomi>まっすぐいく</KunYomi>
+<Stichworte>Genki I - Chapter VI</Stichworte>
+<Englisch>go straight</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>643</ID>
+<Kana>コンビニ</Kana>
+<KunYomi>こんびに</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>convenience store</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>644</ID>
+<Kana>サークル</Kana>
+<KunYomi>さーくる</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>club activity</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>645</ID>
+<Kana>食堂</Kana>
+<KunYomi>しょくどう</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>cafeteria;dining commons</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>646</ID>
+<Kana>父</Kana>
+<KunYomi>ちち</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>(my) father</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>647</ID>
+<Kana>ディーブイディー</Kana>
+<KunYomi>でぃーぶいでぃー</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>DVD</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>658</ID>
+<Kana>親切(な)</Kana>
+<KunYomi>しんせつ(な)</KunYomi>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>親切</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>kind</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>659</ID>
+<Kana>便利(な)</Kana>
+<KunYomi>べんり(な)</KunYomi>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>便利</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>covenient</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>660</ID>
+<Kana>歌う</Kana>
+<KunYomi>うたう</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>歌</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to sing</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>661</ID>
+<KunYomi>かぶる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>かぶ</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to put on (a hat)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>662</ID>
+<Kana>知る</Kana>
+<KunYomi>しる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>知</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to get to know</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>663</ID>
+<Kana>知っています</Kana>
+<KunYomi>しっています</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>I know</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>664</ID>
+<Kana>知りません</Kana>
+<KunYomi>しりません</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>I do not know</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>665</ID>
+<Kana>住む</Kana>
+<KunYomi>すむ</KunYomi>
+<Beschreibung>～に住んでいます/to be living (at)</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>住</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to live</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>666</ID>
+<KunYomi>はく</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>は</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to put on (items below your waist)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>667</ID>
+<Kana>太る</Kana>
+<KunYomi>ふとる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>太</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to gain weight</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>668</ID>
+<Kana>太っています</Kana>
+<KunYomi>ふとっています</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to be on the heavy side</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>669</ID>
+<Kana>（眼鏡）かける</Kana>
+<KunYomi>（めがね）かける</KunYomi>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>かけ</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to put on (glasses)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>670</ID>
+<Kana>着る</Kana>
+<KunYomi>きる</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>着</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to put on (clothes above your waist)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>671</ID>
+<Kana>勤める</Kana>
+<KunYomi>つとめる</KunYomi>
+<Beschreibung>～に勤めています</Beschreibung>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>勤め</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to work for</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>672</ID>
+<KunYomi>やせる</KunYomi>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Wortstamm>やせ</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to lose weight</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>673</ID>
+<KunYomi>やせています</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to be thin</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>674</ID>
+<Kana>結婚する</Kana>
+<KunYomi>けっこんする</KunYomi>
+<Beschreibung>～と</Beschreibung>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Wortstamm>結婚</Wortstamm>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>to get married</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>675</ID>
+<KunYomi>～が</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>…, but</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>676</ID>
+<Kana>何も + negative</Kana>
+<KunYomi>なにも + negative</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>not … anything</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>677</ID>
+<Kana>～人</Kana>
+<KunYomi>～いん</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>counter for people</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>678</ID>
+<Kana>一人</Kana>
+<KunYomi>ひとり</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>one person</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>679</ID>
+<Kana>二人</Kana>
+<KunYomi>ふたり</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>two people</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>680</ID>
+<Kana>別に + negative</Kana>
+<KunYomi>べつに + negative</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>nothing in particular</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>681</ID>
+<KunYomi>もしもし</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>Hello? (used on the phone)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>682</ID>
+<KunYomi>もちろん</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>of course</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>683</ID>
+<KunYomi>よかったら</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>if you like</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>685</ID>
+<Kana>鼻</Kana>
+<KunYomi>はな</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>nose</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>686</ID>
+<Kana>指</Kana>
+<KunYomi>ゆび</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>finger</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>687</ID>
+<Kana>歯</Kana>
+<KunYomi>は</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>tooth</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>688</ID>
+<Kana>首</Kana>
+<KunYomi>くび</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>neck</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>689</ID>
+<Kana>手</Kana>
+<KunYomi>て</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>hand</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>691</ID>
+<Kana>耳</Kana>
+<KunYomi>みみ</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>ear</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>693</ID>
+<Kana>頭</Kana>
+<KunYomi>あたま</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>head</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>694</ID>
+<Kana>背中</Kana>
+<KunYomi>せなか</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>back (of body)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>695</ID>
+<KunYomi>おしり</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>buttocks</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>696</ID>
+<Kana>顔</Kana>
+<KunYomi>かお</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>face</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>697</ID>
+<Kana>肩</Kana>
+<KunYomi>かた</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>shoulder</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>698</ID>
+<Kana>胸</Kana>
+<KunYomi>むね</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>chest</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>699</ID>
+<KunYomi>おなか</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>stomach</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>700</ID>
+<Kana>足</Kana>
+<KunYomi>あし</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>foot</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>701</ID>
+<KunYomi>あさって</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>the day after tomorrow</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>707</ID>
+<Kana>今朝</Kana>
+<KunYomi>けさ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>this morning</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>708</ID>
+<Kana>黒板</Kana>
+<KunYomi>こくばん</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>blackboard</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>624</ID>
+<Kana>姉</Kana>
+<KunYomi>あね</KunYomi>
+<Stichworte>Genki I - Chapter VII</Stichworte>
+<Englisch>(my) older sister</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>702</ID>
+<Kana>雨</Kana>
+<KunYomi>あめ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>rain</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>703</ID>
+<Kana>会社員</Kana>
+<KunYomi>かいしゃいん</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>office worker</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>704</ID>
+<Kana>カメラ</Kana>
+<KunYomi>かめら</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>camera</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>705</ID>
+<Kana>カラオケ</Kana>
+<KunYomi>からおけ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>karaoke</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>706</ID>
+<Kana>空気</Kana>
+<KunYomi>くうき</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>air</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>709</ID>
+<Kana>今月</Kana>
+<KunYomi>こんげつ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>this month</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>710</ID>
+<Kana>仕事</Kana>
+<KunYomi>しごと</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>job;work;occupation</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>711</ID>
+<Kana>大学生</Kana>
+<KunYomi>だいがくせい</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>college student</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>712</ID>
+<Kana>天気予報</Kana>
+<KunYomi>てんきよほう</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>weather forecast</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>713</ID>
+<Kana>所</Kana>
+<KunYomi>ところ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>place</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>714</ID>
+<Kana>トマト</Kana>
+<KunYomi>とまと</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>tomato</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>715</ID>
+<Kana>夏</Kana>
+<KunYomi>なつ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>summer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>716</ID>
+<Kana>何か</Kana>
+<KunYomi>なにか</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>something</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>717</ID>
+<Kana>パーティー</Kana>
+<KunYomi>ぱーてぃー</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>party</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>718</ID>
+<Kana>バーベキュー</Kana>
+<KunYomi>ばーべきゅー</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>barbecue</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>719</ID>
+<KunYomi>はし</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>chopsticks</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>720</ID>
+<Kana>冬</Kana>
+<KunYomi>ふゆ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>winter</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>721</ID>
+<Kana>ホームステイ</Kana>
+<KunYomi>ほーむすてい</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>homestay;living with a local family</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>722</ID>
+<Kana>毎週</Kana>
+<KunYomi>まいしゅう</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>every week</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>723</ID>
+<Kana>来月</Kana>
+<KunYomi>らいげつ</KunYomi>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>next month</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>724</ID>
+<Kana>上手(な)</Kana>
+<KunYomi>じょうず(な)</KunYomi>
+<Beschreibung>～が</Beschreibung>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>上手</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>skillful;goot at …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>725</ID>
+<Kana>下手(な)</Kana>
+<KunYomi>へた(な)</KunYomi>
+<Beschreibung>～が</Beschreibung>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>下手</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>clumsy;poor at …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>726</ID>
+<Kana>有名(な)</Kana>
+<KunYomi>ゆうめい(な)</KunYomi>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>有名</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>famous</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>727</ID>
+<Kana>雨が降る</Kana>
+<KunYomi>あめがふる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>雨が降</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>it rains</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>728</ID>
+<Kana>洗う</Kana>
+<KunYomi>あらう</KunYomi>
+<Beschreibung>～を</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>洗</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to wash</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>729</ID>
+<Kana>言う</Kana>
+<KunYomi>いう</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>言</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to say</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>730</ID>
+<KunYomi>いる</KunYomi>
+<Beschreibung>～が</Beschreibung>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Wortstamm>い</Wortstamm>
+<Stichworte>Genki I - Chapter VIII</Stichworte>
+<Englisch>to need</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>753</ID>
+<Kana>色</Kana>
+<KunYomi>いろ</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>color</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>754</ID>
+<Kana>お弁当</Kana>
+<KunYomi>おべんとう</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>boxed lunch</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>755</ID>
+<Kana>歌舞伎</Kana>
+<KunYomi>かぶき</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>Kabuki;traditional Japanese theatrical art</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>756</ID>
+<Kana>ギター</Kana>
+<KunYomi>ぎあー</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>guitar</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>757</ID>
+<Kana>去年</Kana>
+<KunYomi>きょねん</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>last year</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>786</ID>
+<Kana>散歩する</Kana>
+<KunYomi>さんぽする</KunYomi>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to take a walk</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>787</ID>
+<KunYomi>～から</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>from …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>788</ID>
+<Kana>是非</Kana>
+<KunYomi>ぜひ</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>by all means</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>789</ID>
+<KunYomi>ところで</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>by the way</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>790</ID>
+<KunYomi>みんな</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>all</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>791</ID>
+<KunYomi>もう</KunYomi>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>already</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>792</ID>
+<Kana>秋</Kana>
+<KunYomi>あき</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>fall</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>793</ID>
+<Kana>医者</Kana>
+<KunYomi>いしゃ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>doctor</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>799</ID>
+<Kana>クレジットカード</Kana>
+<KunYomi>くれじっとかーど</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>credit card</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>800</ID>
+<Kana>ケーキ</Kana>
+<KunYomi>けーき</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>cake</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>801</ID>
+<Kana>今年</Kana>
+<KunYomi>ことし</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>this year</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>802</ID>
+<Kana>サッカー</Kana>
+<KunYomi>さっかー</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>soccer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>803</ID>
+<Kana>シャツ</Kana>
+<KunYomi>しゃつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>shirt</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>804</ID>
+<Kana>新幹線</Kana>
+<KunYomi>しんかんせん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>Shinkansen;&quot;Bullet Train&quot;</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>779</ID>
+<Kana>人気がある</Kana>
+<KunYomi>にんきがある</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter IX</Stichworte>
+<Englisch>to be popular</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>794</ID>
+<Kana>駅</Kana>
+<KunYomi>えき</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>station</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>795</ID>
+<Kana>お金持ち</Kana>
+<KunYomi>おかねもち</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>rich person</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>797</ID>
+<Kana>季節</Kana>
+<KunYomi>きせつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>season</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>798</ID>
+<Kana>牛乳</Kana>
+<KunYomi>ぎゅうにゅう</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>milk</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>805</ID>
+<KunYomi>すし</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>sushi</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>806</ID>
+<Kana>生活</Kana>
+<KunYomi>せいかつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>life;living</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>807</ID>
+<Kana>世界</Kana>
+<KunYomi>せかい</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>world</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>808</ID>
+<Kana>地下鉄</Kana>
+<KunYomi>ちかてつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>subway</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>809</ID>
+<Kana>手袋</Kana>
+<KunYomi>てぶくろ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>gloves</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>810</ID>
+<Kana>天ぷら</Kana>
+<KunYomi>てんぷら</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>tempura</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>811</ID>
+<Kana>床屋</Kana>
+<KunYomi>とこや</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>barber&apos;s</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>812</ID>
+<Kana>春</Kana>
+<KunYomi>はる</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>spring</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>813</ID>
+<Kana>パンツ</Kana>
+<KunYomi>ぱんつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>pants</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>814</ID>
+<Kana>美容院</Kana>
+<KunYomi>びよういん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>beauty parlor</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>815</ID>
+<Kana>便</Kana>
+<KunYomi>びん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>flight</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>816</ID>
+<Kana>船</Kana>
+<KunYomi>ふね</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>ship;boat</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>817</ID>
+<Kana>野球</Kana>
+<KunYomi>やきゅう</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>baseball</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>818</ID>
+<Kana>有名人</Kana>
+<KunYomi>ゆうめいじん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>celebrity</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>819</ID>
+<Kana>予約</Kana>
+<KunYomi>よやく</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>reservation</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>820</ID>
+<Kana>来学期</Kana>
+<KunYomi>らいがっき</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>next semester</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>821</ID>
+<KunYomi>りんご</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>apple</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>822</ID>
+<Kana>暖かい</Kana>
+<KunYomi>あたたかい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>暖か</Wortstamm>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>warm</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>823</ID>
+<Kana>遅い</Kana>
+<KunYomi>おそい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>遅</Wortstamm>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>slow;late</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>824</ID>
+<Kana>涼しい</Kana>
+<KunYomi>すずしい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>涼し</Wortstamm>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>cool (weather - not used for things)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>825</ID>
+<Kana>冷たい</Kana>
+<KunYomi>つめたい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>冷た</Wortstamm>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>cold (things/people)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>826</ID>
+<Kana>眠い</Kana>
+<KunYomi>ねむい</KunYomi>
+<Wortart>Adjektiv;い-Adjektiv</Wortart>
+<Wortstamm>眠</Wortstamm>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>sleepy</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>827</ID>
+<Kana>簡単(な)</Kana>
+<KunYomi>かんたん(な)</KunYomi>
+<Wortart>Adjektiv;な-Adjektiv</Wortart>
+<Wortstamm>簡単</Wortstamm>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>easy;simple</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>828</ID>
+<KunYomi>かかる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>to take (amount of time/money)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>829</ID>
+<Kana>泊まる</Kana>
+<KunYomi>とまる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>to stay (at a hotel, etc.)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>830</ID>
+<KunYomi>なる</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>to become</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>831</ID>
+<Kana>払う</Kana>
+<KunYomi>はらう</KunYomi>
+<Wortart>Verb;う-Verb;ごだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>to pay</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>832</ID>
+<Kana>決める</Kana>
+<KunYomi>きめる</KunYomi>
+<Wortart>Verb;る-Verb;いちだん-Verb</Wortart>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>to decide</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>833</ID>
+<Kana>旅行する</Kana>
+<KunYomi>りょこうする</KunYomi>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>to travel</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>834</ID>
+<Kana>練習する</Kana>
+<KunYomi>れんしゅうする</KunYomi>
+<Wortart>Verb;unregelmäßiges Verb</Wortart>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>to practice</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>835</ID>
+<Kana>歩いて</Kana>
+<KunYomi>あるいて</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>on foot</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>836</ID>
+<Kana>一番</Kana>
+<KunYomi>いちばん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>best</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>837</ID>
+<KunYomi>～か～</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>or</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>838</ID>
+<Kana>～か月</Kana>
+<KunYomi>～かげつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>for … months</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>839</ID>
+<Kana>～後</Kana>
+<KunYomi>～ご</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>in … time;after …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>840</ID>
+<KunYomi>このごろ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>these days</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>841</ID>
+<Kana>～週間</Kana>
+<KunYomi>～しゅうかん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>for … weeks</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>842</ID>
+<KunYomi>～で</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>by (means of transportation);with (a tool)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>843</ID>
+<KunYomi>どうやって</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>how;by what means</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>844</ID>
+<KunYomi>どちら</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>which</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>845</ID>
+<KunYomi>どっち</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>which</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>846</ID>
+<KunYomi>どのぐらい</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>how much;how long</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>847</ID>
+<Kana>～年</Kana>
+<KunYomi>～ねん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>… years</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>848</ID>
+<Kana>早く;速く</Kana>
+<KunYomi>はやく</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>(do something) early;fast</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>849</ID>
+<Kana>普通</Kana>
+<KunYomi>ふつう</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>local</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>850</ID>
+<Kana>急行</Kana>
+<KunYomi>きゅうこう</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>express</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>851</ID>
+<Kana>特急</Kana>
+<KunYomi>とっきゅう</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>super express</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>852</ID>
+<Kana>～行き</Kana>
+<KunYomi>～いき</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>bound for …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>853</ID>
+<Kana>～方面</Kana>
+<KunYomi>～ほうめん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>serving … areas</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>854</ID>
+<Kana>乗車券</Kana>
+<KunYomi>じょうしゃけん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>(boarding) ticket</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>855</ID>
+<Kana>回数券</Kana>
+<KunYomi>かいすうけん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>coupons</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>856</ID>
+<Kana>定期券</Kana>
+<KunYomi>ていきけん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>commuter&apos;s pass</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>857</ID>
+<Kana>学割</Kana>
+<KunYomi>がくわり</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>student discount</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>858</ID>
+<Kana>指定席</Kana>
+<KunYomi>していせき</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>reserved seat</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>859</ID>
+<Kana>自由席</Kana>
+<KunYomi>じゆうせき</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>general admission seat</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>860</ID>
+<Kana>禁煙車</Kana>
+<KunYomi>きんえんしゃ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>nonsmoking car</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>861</ID>
+<Kana>一号車</Kana>
+<KunYomi>いちごうしゃ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>Car No. 1</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>862</ID>
+<Kana>往復</Kana>
+<KunYomi>おうふく</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>round trip</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>863</ID>
+<Kana>片道</Kana>
+<KunYomi>かたみち</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>one way</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>864</ID>
+<Kana>～番線</Kana>
+<KunYomi>～ばんせん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>track number …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>865</ID>
+<Kana>切符売り場</Kana>
+<KunYomi>きっぷうりば</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>ticket vending area</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>866</ID>
+<Kana>改札</Kana>
+<KunYomi>かいさつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>gate</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>867</ID>
+<Kana>ホーム</Kana>
+<KunYomi>ほーむ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>plattform</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>868</ID>
+<Kana>売店</Kana>
+<KunYomi>ばいてん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>shop;stand</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>869</ID>
+<Kana>出口</Kana>
+<KunYomi>でぐち</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>exit</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>870</ID>
+<Kana>入口</Kana>
+<KunYomi>いりぐち</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>entrance</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>871</ID>
+<Kana>階段</Kana>
+<KunYomi>かいだん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>stairs</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>872</ID>
+<Kana>一番前</Kana>
+<KunYomi>いちばんまえ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>first car;front end</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>873</ID>
+<Kana>一番後ろ</Kana>
+<KunYomi>いちばんうしろ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>last car;tail end</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>874</ID>
+<Kana>乗り換え</Kana>
+<KunYomi>のりかえ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>transfer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>875</ID>
+<Kana>次は～</Kana>
+<KunYomi>つぎは～</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>next (stop), …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>876</ID>
+<Kana>先発</Kana>
+<KunYomi>せんぱつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>departing first</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>877</ID>
+<Kana>次発</Kana>
+<KunYomi>じはつ</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>departing second</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>878</ID>
+<Kana>終電</Kana>
+<KunYomi>しゅうでん</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>last train</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>879</ID>
+<Kana>まもなく発車します。</Kana>
+<KunYomi>まもなくはっしゃします。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>We will be leaving soon,</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>880</ID>
+<Kana>電車が参ります。</Kana>
+<KunYomi>でんわがまいります。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>A train is arriving.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>881</ID>
+<Kana>次は～に止まります。</Kana>
+<KunYomi>つぎは～にとまります。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>Next (we&apos;ll stop at) …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>882</ID>
+<Kana>ドアが閉まります。ご注意ください。</Kana>
+<KunYomi>どあがしまります。ごちゅういください。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>The doors are closing. Please be careful.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>883</ID>
+<Kana>この電車は秋葉原に止まります。</Kana>
+<KunYomi>このでんしゃはあきはばらにとまります。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>Does this train stop at Akihabara?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>884</ID>
+<Kana>終電は何時ですか。</Kana>
+<KunYomi>しゅうでんはなんじですか。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>What time is the last train?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>885</ID>
+<Kana>東京までの指定席を一枚お願いします。</Kana>
+<KunYomi>とうきょうまでのしていせきをいちまいおねがいします。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>One reserved ticket to Tokyo, please.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>886</ID>
+<Kana>学割が使えますか。</Kana>
+<KunYomi>がくわりがつかえますか。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>Can I get a student discount?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>887</ID>
+<Kana>鎌倉行きの電車はどれですか。</Kana>
+<KunYomi>かまくらいきのでんしゃはどれですか。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>Which one is the train bound for Kamakura?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>888</ID>
+<Kana>二番線です。</Kana>
+<KunYomi>にばんせんです。</KunYomi>
+<Stichworte>Genki I - Chapter X</Stichworte>
+<Englisch>Track number two.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>889</ID>
+<Kana>お菓子</Kana>
+<KunYomi>おかし</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>snacks;sweets</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>895</ID>
+<Kana>女の人</Kana>
+<KunYomi>おんなのこ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>girl</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>896</ID>
+<Kana>外国</Kana>
+<KunYomi>がいこく</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>foreign country</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>897</ID>
+<Kana>歌手</Kana>
+<KunYomi>かしゅ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>singer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>898</ID>
+<Kana>川</Kana>
+<KunYomi>かわ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>river</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>899</ID>
+<Kana>キャンプ</Kana>
+<KunYomi>きゃんぱ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>camp</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>900</ID>
+<KunYomi>こちら</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>this person (polite)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>890</ID>
+<Kana>お正月</Kana>
+<KunYomi>おしょうがつ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>New Year&apos;s</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>891</ID>
+<Kana>男の子</Kana>
+<KunYomi>おとこのこ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>boy</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>892</ID>
+<Kana>お祭り</Kana>
+<KunYomi>おまつり</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>festival</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>893</ID>
+<KunYomi>おもちゃ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>toy</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>894</ID>
+<Kana>温泉</Kana>
+<KunYomi>おんせん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>spa;hot spring</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>901</ID>
+<Kana>今学期</Kana>
+<KunYomi>こんがっき</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>this semester</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>902</ID>
+<Kana>社長</Kana>
+<KunYomi>しゃちょう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>president of a company</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>903</ID>
+<Kana>授業</Kana>
+<KunYomi>じゅぎょう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>class</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>904</ID>
+<Kana>将来</Kana>
+<KunYomi>しょうらい</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>future</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>905</ID>
+<Kana>神社</Kana>
+<KunYomi>じんじゃ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>shrine</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>906</ID>
+<KunYomi>つり</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>fishing</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>907</ID>
+<Kana>ドライブ</Kana>
+<KunYomi>どらいぶ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>drive</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>908</ID>
+<Kana>ビール</Kana>
+<KunYomi>びーる</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>beer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>909</ID>
+<Kana>美術館</Kana>
+<KunYomi>びじゅつかん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>art museum</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>910</ID>
+<Kana>ホストファミリー</Kana>
+<KunYomi>ほすとふぁみりー</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>host family</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>911</ID>
+<Kana>湖</Kana>
+<KunYomi>みずうみ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>lake</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>912</ID>
+<Kana>山</Kana>
+<KunYomi>やま</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>mountain</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>913</ID>
+<Kana>夢</Kana>
+<KunYomi>ゆめ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>dream</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>919</ID>
+<Kana>取る</Kana>
+<KunYomi>とる</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to take (a class);to get (a grade)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>920</ID>
+<Kana>習う</Kana>
+<KunYomi>ならう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to learn</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>921</ID>
+<Kana>登る</Kana>
+<KunYomi>のぼる</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to climb</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>922</ID>
+<Kana>働く</Kana>
+<KunYomi>はたらく</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to work</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>923</ID>
+<Kana>疲れる</Kana>
+<KunYomi>つかれる</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to get tired</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>924</ID>
+<KunYomi>やめる</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to quit</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>925</ID>
+<KunYomi>けんかする</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to have a fight;to quarrel</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>926</ID>
+<Kana>紹介する</Kana>
+<KunYomi>しょうかいする</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to introduce</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>927</ID>
+<KunYomi>ダイエットする</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to go on a diet</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>928</ID>
+<Kana>遅刻する</Kana>
+<KunYomi>ちこくする</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to be late (for an appoinment)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>929</ID>
+<Kana>留学する</Kana>
+<KunYomi>りゅうがくする</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to study abroad</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>930</ID>
+<Kana>後</Kana>
+<KunYomi>あと</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>after (an event)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>931</ID>
+<Kana>出身</Kana>
+<KunYomi>しゅっしん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>coming from</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>932</ID>
+<KunYomi>そして</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>and then</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>933</ID>
+<KunYomi>～だけ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>just …;only …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>934</ID>
+<Kana>～点</Kana>
+<KunYomi>～てん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>… points</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>935</ID>
+<Kana>久しぶり</Kana>
+<KunYomi>ひさしぶり</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>it has been a long time</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>936</ID>
+<KunYomi>まあまあ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>okay;so-so</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>937</ID>
+<KunYomi>もっと</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>more</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>938</ID>
+<Kana>作家</Kana>
+<KunYomi>さっか</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>writer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>939</ID>
+<Kana>ジャーナリスト</Kana>
+<KunYomi>じゃーなりすと</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>journalist</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>940</ID>
+<Kana>警察官</Kana>
+<KunYomi>けいさつかん</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>police officer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>941</ID>
+<Kana>俳優</Kana>
+<KunYomi>はいゆう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>actor;actress</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>942</ID>
+<Kana>女優</Kana>
+<KunYomi>じょゆう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>actress</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>943</ID>
+<Kana>看護師</Kana>
+<KunYomi>かんごし</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>nurse</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>944</ID>
+<Kana>消防士</Kana>
+<KunYomi>しょうほうし</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>firefighter</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>945</ID>
+<Kana>漫画家</Kana>
+<KunYomi>まんがか</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>cartoonist</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>946</ID>
+<Kana>宇宙飛行士</Kana>
+<KunYomi>うちゅうひこうし</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>astronaut</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>947</ID>
+<Kana>野球選手</Kana>
+<KunYomi>やきゅうせんしゅ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>baseball player</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>948</ID>
+<Kana>大統領</Kana>
+<KunYomi>だいとうりょう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>president of a country</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>954</ID>
+<KunYomi>だめです。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>No good.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>955</ID>
+<Kana>手をあげてください。</Kana>
+<KunYomi>てをあげてください。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Raise your hand.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>914</ID>
+<Kana>ルームメート</Kana>
+<KunYomi>るーむめーと</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>roommate</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>915</ID>
+<KunYomi>うそをつく</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to tell a lie</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>916</ID>
+<KunYomi>おなかがすく</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to become hungry</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>917</ID>
+<Kana>飼う</Kana>
+<KunYomi>かう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to own (a pet)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>918</ID>
+<Kana>サボる</Kana>
+<KunYomi>さぼる</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>to cut (classes)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>949</ID>
+<KunYomi>どちらでもいいです。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Both are fine.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>950</ID>
+<Kana>同じです。</Kana>
+<KunYomi>おなじです。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Same thing.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>951</ID>
+<Kana>だいたい同じです。</Kana>
+<KunYomi>だいたいおなじです。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>More or less the same.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>952</ID>
+<Kana>ちょっと違います。</Kana>
+<KunYomi>ちょっとちがいます。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>A little different.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>953</ID>
+<Kana>使えません。</Kana>
+<KunYomi>つかえません。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Can&apos;t use it.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>956</ID>
+<Kana>読んできてください。</Kana>
+<KunYomi>よんできてください。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Read it before coming to class.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>957</ID>
+<Kana>宿題を出してください。</Kana>
+<KunYomi>しゅくだいをだしてください。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Hand in the homework.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>958</ID>
+<Kana>教科書を閉じてください。</Kana>
+<KunYomi>きょうかしょをとじてください。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Close the textbook.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>959</ID>
+<Kana>となりの人に聞いてください。</Kana>
+<KunYomi>となりのひとにきいてください。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Ask the person sitting next to you.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>960</ID>
+<KunYomi>やめてください。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>Please stop.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>961</ID>
+<Kana>今日はこれで終わります。</Kana>
+<KunYomi>きょうはこれでおわります。</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>That&apos;s it for today.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>962</ID>
+<Kana>宿題</Kana>
+<KunYomi>しゅくだい</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>homework</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>963</ID>
+<KunYomi>しめきり</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>deadline</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>964</ID>
+<Kana>練習</Kana>
+<KunYomi>れんしゅう</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>exercise</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>965</ID>
+<Kana>意味</Kana>
+<KunYomi>いみ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>meaning</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>986</ID>
+<Kana>意味</Kana>
+<KunYomi>いみ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>meaning</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>987</ID>
+<Kana>お手洗い</Kana>
+<KunYomi>おてあらい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>restroom</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>988</ID>
+<KunYomi>おなか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>stomach</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>989</ID>
+<Kana>風邪</Kana>
+<KunYomi>かぜ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>cold</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>990</ID>
+<Kana>彼女</Kana>
+<KunYomi>かのじょ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>girlfriend</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1022</ID>
+<Kana>熱がある</Kana>
+<KunYomi>ねつがある</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to have a fever</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1023</ID>
+<Kana>のどが渇く</Kana>
+<KunYomi>のどがかわく</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to become thirsty</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1024</ID>
+<Kana>せきが出る</Kana>
+<KunYomi>せきがでる</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to cough</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1025</ID>
+<Kana>別れる</Kana>
+<KunYomi>わかれる</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to break up;to separate</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1026</ID>
+<Kana>緊張する</Kana>
+<KunYomi>きんちょうする</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to get nervous</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1027</ID>
+<Kana>心配する</Kana>
+<KunYomi>しんぱいする</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>to worry</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1028</ID>
+<Kana>お大事に</Kana>
+<KunYomi>おだいじに</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>Get well soon.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1029</ID>
+<Kana>元気がない</Kana>
+<KunYomi>げんきがない</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>don&apos;t look well</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1030</ID>
+<Kana>多分</Kana>
+<KunYomi>たぶん</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>probably;maybe</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1031</ID>
+<KunYomi>できるだけ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>as much as possible</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1032</ID>
+<KunYomi>～でしょう</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>probably;…, right?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1033</ID>
+<Kana>～度</Kana>
+<KunYomi>～ど</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>… degrees (temperature)</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1034</ID>
+<Kana>二三日</Kana>
+<KunYomi>にさんにち</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>for two to three days</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1035</ID>
+<KunYomi>～ので</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>because …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1036</ID>
+<Kana>初めて</Kana>
+<KunYomi>はじめて</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>for the first time</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1037</ID>
+<KunYomi>もうすぐ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>very soon;in a few moments/days</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1038</ID>
+<Kana>下痢です。</Kana>
+<KunYomi>げりです。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I have diarrhea.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1039</ID>
+<Kana>便秘です。</Kana>
+<KunYomi>べんぴです。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I am constipated.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1040</ID>
+<Kana>生理です。</Kana>
+<KunYomi>せいりです。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I have my period.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1041</ID>
+<Kana>花粉症です。</Kana>
+<KunYomi>かふんしょうです。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I have hay fever.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1042</ID>
+<Kana>（～に）アレルギーがありますよ。</Kana>
+<KunYomi>（～に）あれるぎーがありますよ。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I have an allergy to …</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1043</ID>
+<Kana>虫歯があります。</Kana>
+<KunYomi>むしばがあります。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I have a bad tooth.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1044</ID>
+<Kana>くしゃみが出ます。</Kana>
+<KunYomi>くしゃみがでます。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I sneeze.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1045</ID>
+<Kana>鼻水が出ます。</Kana>
+<KunYomi>はなみずがでます。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I have a runny nose.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1046</ID>
+<Kana>背中がかゆいです。</Kana>
+<KunYomi>せなかがかゆいです。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>My back itches.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1047</ID>
+<Kana>発疹があります。</Kana>
+<KunYomi>はっしんがあります。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I have rashes.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1048</ID>
+<KunYomi>めまいがします。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I feel dizzy.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1049</ID>
+<Kana>吐きました。</Kana>
+<KunYomi>はきました。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I threw up.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1050</ID>
+<Kana>気分が悪いです。</Kana>
+<KunYomi>きぶんがわるいです。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I am not feeling well.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1051</ID>
+<KunYomi>やけどをしました。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I burned myself.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1052</ID>
+<Kana>足の骨を折りました。</Kana>
+<KunYomi>あしのほねをおりました。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I broke my leg.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1053</ID>
+<KunYomi>けがをしました。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I hurt myself.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1054</ID>
+<Kana>医者</Kana>
+<KunYomi>いしゃ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>Doctor&apos;s office</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1055</ID>
+<Kana>内科</Kana>
+<KunYomi>ないか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>physician</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1056</ID>
+<Kana>皮膚科</Kana>
+<KunYomi>ひふか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>dermatologist</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1057</ID>
+<Kana>外科</Kana>
+<KunYomi>げか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>surgeon</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1058</ID>
+<Kana>産婦人科</Kana>
+<KunYomi>さんふじんか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>obstetrician and gynecologist</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1059</ID>
+<Kana>整形外科</Kana>
+<KunYomi>せいけいげか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>orthopedic surgeon</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1060</ID>
+<Kana>眼科</Kana>
+<KunYomi>がんか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>ophthalmologist</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1061</ID>
+<Kana>歯科</Kana>
+<KunYomi>しか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>dentist</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1062</ID>
+<Kana>耳鼻科</Kana>
+<KunYomi>じびか</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>otorhinolaryngologist;ENT doctor</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1063</ID>
+<Kana>抗生物質</Kana>
+<KunYomi>こうせいぶっしつ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>antibiotic</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1064</ID>
+<Kana>レントゲン</Kana>
+<KunYomi>れんとげん</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>X-ray</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1065</ID>
+<Kana>手術</Kana>
+<KunYomi>しゅじゅつ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>operation</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1066</ID>
+<Kana>注射</Kana>
+<KunYomi>ちゅうしゃ</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>injection</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1067</ID>
+<Kana>体温計</Kana>
+<KunYomi>たいおんけい</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>thermometer</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1068</ID>
+<Kana>その他</Kana>
+<KunYomi>そのた</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>miscellaneous</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1069</ID>
+<Kana>すみません。初めてなんですが</Kana>
+<KunYomi>すみません。はじめてなんですが。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>Excuse me. This is my first visit.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1070</ID>
+<Kana>はい、保険証を見せてください。</Kana>
+<KunYomi>はい、ほけんしょうをみせてください。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>Okay. Please show me your health insurance certificate.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1071</ID>
+<Kana>この紙に名前と住所を書いてください。</Kana>
+<KunYomi>このかみになまえとじゅうしょをかいてください。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>Please fill in your name and address on this paper.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1072</ID>
+<Kana>これは何の薬ですか。</Kana>
+<KunYomi>これはなんのくすりですか。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>What kind of medicine are these?</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1073</ID>
+<Kana>痛み止めです。食後に飲んでください。</Kana>
+<KunYomi>いたみどめです。しょくごによんでください。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>These are painkillers. Please take one after meals.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1074</ID>
+<KunYomi>わかりました。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>I see.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1075</ID>
+<Kana>お大事に。</Kana>
+<KunYomi>おだいじに。</KunYomi>
+<Stichworte>Genki I - Chapter XII</Stichworte>
+<Englisch>Please take care.</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1076</ID>
+<Kana>苺</Kana>
+<KunYomi>いちご</KunYomi>
+<Stichworte>Genki I - Chapter I</Stichworte>
+<Englisch>strawberry</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1077</ID>
+<Kana>団子</Kana>
+<KunYomi>だんご</KunYomi>
+<Stichworte>Genki I - Chapter I</Stichworte>
+<Englisch>dumpling</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1078</ID>
+<Kana>座布団</Kana>
+<KunYomi>ざぶとん</KunYomi>
+<Stichworte>Genki I - Chapter I</Stichworte>
+<Englisch>cushon</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1079</ID>
+<Kana>外国人</Kana>
+<KunYomi>がいこくじん</KunYomi>
+<Stichworte>Genki I - Chapter I</Stichworte>
+<Englisch>foreigner</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1080</ID>
+<Kana>蒲公英</Kana>
+<KunYomi>たんぽぽ</KunYomi>
+<Stichworte>Genki I - Chapter I</Stichworte>
+<Englisch>dandelion</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1081</ID>
+<Kana>岸壁</Kana>
+<KunYomi>がんぺき</KunYomi>
+<Stichworte>Genki I - Chapter I</Stichworte>
+<Englisch>cliff</Englisch>
+<Woerterbuch>Genki I</Woerterbuch>
+<richtig>0</richtig>
+<falsch>0</falsch>
+<unbekannt>0</unbekannt>
+<Straehne>0</Straehne>
+<Art>0</Art>
+</Vokabel>
+<Vokabel>
+<ID>1082</ID>
+<Kana>河豚</Kana>
+<KunYomi>ふぐ</KunYomi>
+<Stichworte>Genki I - Chapter XI</Stichworte>
+<Englisch>blow fish</Englisch>
 <Woerterbuch>Genki I</Woerterbuch>
 <richtig>0</richtig>
 <falsch>0</falsch>
