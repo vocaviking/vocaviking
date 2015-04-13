@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JANS-PC</Machine>
+    <WindowsUser>Jan</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>91c5d16b-f2ea-4a81-a10f-eb4b47011e8e</PackageIdentityName>
+    <IntermediateOutputPath>E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\VocabularyTrainer.WindowsPhone.exe">
+      <PackagePath>VocabularyTrainer.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F604.png">
+      <PackagePath>Assets\1F604.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F60A.png">
+      <PackagePath>Assets\1F60A.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F60D.png">
+      <PackagePath>Assets\1F60D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F60F.png">
+      <PackagePath>Assets\1F60F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F614.png">
+      <PackagePath>Assets\1F614.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F615.png">
+      <PackagePath>Assets\1F615.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F628.png">
+      <PackagePath>Assets\1F628.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F62C.png">
+      <PackagePath>Assets\1F62C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F62D.png">
+      <PackagePath>Assets\1F62D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\1F635.png">
+      <PackagePath>Assets\1F635.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\Blaubart.png">
+      <PackagePath>Assets\Blaubart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\Wide310x150Logo.scale-240.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\questions.xml">
+      <PackagePath>Assets\questions.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Assets\vocab.xml">
+      <PackagePath>Assets\vocab.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Fonts\8-BIT WONDER.TTF">
+      <PackagePath>Fonts\8-BIT WONDER.TTF</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Fonts\Ricasso-Regular.ttf">
+      <PackagePath>Fonts\Ricasso-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Fonts\Setperset-Regular.ttf">
+      <PackagePath>Fonts\Setperset-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\Fonts\Anita semi square.ttf">
+      <PackagePath>Fonts\Anita semi square.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\Quiz.xbf">
+      <PackagePath>Quiz.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\SettingsPage.xbf">
+      <PackagePath>SettingsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\Themes\QuestionListTemplate.xbf">
+      <PackagePath>Themes\QuestionListTemplate.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\VocabularyTrainer.WindowsPhone.xr.xml">
+      <PackagePath>VocabularyTrainer.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Jan\documents\visual studio 2013\Projects\VocabularyTrainer\VocabularyTrainer\VocabularyTrainer.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

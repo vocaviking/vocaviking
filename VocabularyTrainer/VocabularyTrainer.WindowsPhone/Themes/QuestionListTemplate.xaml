@@ -1,0 +1,198 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VocabularyTrainer">
+
+    <!--=================================================================
+                                Converters
+    ==================================================================-->
+    <local:ButtonBackgroundConverter x:Key="ButtonBackgroundConverter" />
+    <local:ButtonForegroundConverter x:Key="ButtonForegroundConverter" />
+    <local:FlipBackgroundConverter x:Key="FlipBackgroundConverter" />
+    <local:FlipBorderConverter x:Key="FlipBorderConverter" />
+    <local:BorderBackgroundConverter x:Key="BorderBackgroundConverter" />
+    <local:StringConverter x:Key="StringConverter" />
+    <local:MultiplyConverter x:Key="MultiplyConverter" />
+    <local:RightToImg x:Key="RightToImg" />
+    <!--=================================================================
+                                Styles
+    ==================================================================-->
+    <!--Question Marker Item-->
+    <Style x:Key="QuestionMarkerItemStyle" TargetType="ListBoxItem">
+        <Setter Property="Width" Value="32"/>
+        <Setter Property="Height" Value="32"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListBoxItem">
+                    <Grid Background="{TemplateBinding Background}">
+                        <VisualStateManager.VisualStateGroups>
+                            <VisualStateGroup x:Name="CommonStates">
+                                <VisualState x:Name="Normal" />
+                                <VisualState x:Name="PointerOver" /><!--When pressed-->
+                            </VisualStateGroup>
+                            <VisualStateGroup x:Name="SelectionStates">
+                                <VisualState x:Name="SelectedUnfocused">
+                                    <Storyboard>
+                                        <ColorAnimation Storyboard.TargetName="fillColor" Storyboard.TargetProperty="(Rectangle.Stroke).(SolidColorBrush.Color)" BeginTime="00:00:00" Duration="0" To="{Binding Converter={StaticResource FlipBorderConverter}}"/>
+                                        <ColorAnimation Storyboard.TargetName="fillColor" Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)"   BeginTime="00:00:00" Duration="0" To="LightGray"/>
+                                    </Storyboard>
+                                </VisualState>
+                                <VisualState x:Name="Unselected"/>
+                            </VisualStateGroup>
+                        </VisualStateManager.VisualStateGroups>
+                        <Rectangle x:Name="fillColor" IsHitTestVisible="False" Margin="2" Fill="{Binding Converter={StaticResource FlipBackgroundConverter}}" Stroke="Transparent" StrokeThickness="2"/>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--Result Marker Item-->
+    <!--We should get rid of this!!-->
+    <Style x:Key="ResultMarkerItemStyle" TargetType="ListBoxItem">
+        <Setter Property="Width" Value="32"/>
+        <Setter Property="Height" Value="32"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListBoxItem">
+                    <Grid Background="{TemplateBinding Background}">
+                        <VisualStateManager.VisualStateGroups>
+                            <VisualStateGroup x:Name="CommonStates">
+                                <VisualState x:Name="Normal" />
+                                <VisualState x:Name="PointerOver" />
+                                <!--When pressed-->
+                            </VisualStateGroup>
+                            <VisualStateGroup x:Name="SelectionStates">
+                                <VisualState x:Name="SelectedUnfocused">
+                                    <Storyboard>
+                                        <ColorAnimation Storyboard.TargetName="fillColor" Storyboard.TargetProperty="(Rectangle.Stroke).(SolidColorBrush.Color)" BeginTime="00:00:00" Duration="0" To="Blue"/>
+                                        <ColorAnimation Storyboard.TargetName="fillColor" Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)" BeginTime="00:00:00" Duration="0" To="LightGray"/>
+                                    </Storyboard>
+                                </VisualState>
+                                <VisualState x:Name="Unselected"/>
+                            </VisualStateGroup>
+                        </VisualStateManager.VisualStateGroups>
+                        <Rectangle x:Name="fillColor" IsHitTestVisible="False" Margin="2" Fill="Blue" Stroke="Transparent" StrokeThickness="2" Opacity="1"/>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--Question-->
+    <Style x:Key="QuestionStyle" TargetType="FlipViewItem">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="FlipViewItem">
+                    <Grid Margin="10,0" VerticalAlignment="Stretch">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Border BorderBrush="{Binding Converter={StaticResource BorderBackgroundConverter}}" BorderThickness="3" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" CornerRadius="5" Grid.Row="0">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <TextBlock x:Name="Question" TextWrapping="Wrap" Text="{Binding Question, FallbackValue=Question}" FontSize="36" Margin="5" TextAlignment="Center" FontFamily="Segoe Print" VerticalAlignment="Center" />
+                            </Grid>
+                        </Border>
+                        <Button Content="{Binding AnswerA, FallbackValue=AnswerA}" Background="{Binding Converter={StaticResource ButtonBackgroundConverter}, ConverterParameter=A}"       Foreground="{Binding Converter={StaticResource ButtonForegroundConverter}, ConverterParameter=A}"       HorizontalAlignment="Stretch" FontSize="20" FontFamily="Segoe Print"                                    Tag="A"       Click="Answer_Click" Grid.Row="1" Padding="9.5" />
+                        <Button Content="{Binding AnswerB, FallbackValue=AnswerB}" Background="{Binding Converter={StaticResource ButtonBackgroundConverter}, ConverterParameter=B}"       Foreground="{Binding Converter={StaticResource ButtonForegroundConverter}, ConverterParameter=B}"       HorizontalAlignment="Stretch" FontSize="20" FontFamily="Segoe Print"                                    Tag="B"       Click="Answer_Click" Grid.Row="2" Padding="9.5" />
+                        <Button Content="{Binding AnswerC, FallbackValue=AnswerC}" Background="{Binding Converter={StaticResource ButtonBackgroundConverter}, ConverterParameter=C}"       Foreground="{Binding Converter={StaticResource ButtonForegroundConverter}, ConverterParameter=C}"       HorizontalAlignment="Stretch" FontSize="20" FontFamily="Segoe Print"                                    Tag="C"       Click="Answer_Click" Grid.Row="3" Padding="9.5" />
+                        <Button Content="{Binding AnswerD, FallbackValue=AnswerD}" Background="{Binding Converter={StaticResource ButtonBackgroundConverter}, ConverterParameter=D}"       Foreground="{Binding Converter={StaticResource ButtonForegroundConverter}, ConverterParameter=D}"       HorizontalAlignment="Stretch" FontSize="20" FontFamily="Segoe Print"                                    Tag="D"       Click="Answer_Click" Grid.Row="4" Padding="9.5" />
+                        <Button Content="I do not know."                           Background="{Binding Converter={StaticResource ButtonBackgroundConverter}, ConverterParameter=Unknown}" Foreground="{Binding Converter={StaticResource ButtonForegroundConverter}, ConverterParameter=Unknown}" HorizontalAlignment="Stretch" FontSize="20" FontFamily="Fonts/Anita semi square.ttf#Anita  Semi-square" Tag="Unknown" Click="Answer_Click" Grid.Row="5" Padding="9.5" />
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--Results-->
+    <Style x:Key="ResultStyle" TargetType="FlipViewItem">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="FlipViewItem">
+                    <Grid Margin="10,0">
+    					<Grid.RowDefinitions>
+    						<RowDefinition Height="Auto"/>
+    						<RowDefinition Height="Auto"/>
+    						<RowDefinition Height="Auto"/>
+    						<RowDefinition Height="Auto"/>
+    						<RowDefinition Height="Auto"/>
+							<RowDefinition/>
+    						<RowDefinition Height="Auto"/>
+    						<RowDefinition Height="Auto"/>
+    					</Grid.RowDefinitions>
+    					<Grid.ColumnDefinitions>
+    						<ColumnDefinition Width="Auto"/>
+    						<ColumnDefinition Width="Auto"/>
+    						<ColumnDefinition Width="Auto"/>
+    						<ColumnDefinition Width="2*"/>
+							<ColumnDefinition Width="*"/>
+    					</Grid.ColumnDefinitions>		
+						<TextBlock Text="Right:"   Grid.Row="0" Grid.Column="0" Padding="0,0,10,0" />
+						<TextBlock Text="Wrong:"   Grid.Row="1" Grid.Column="0" Padding="0,0,10,0" />
+						<TextBlock Text="Total:"   Grid.Row="2" Grid.Column="0" Padding="0,0,10,0" />
+						<TextBlock Text="Unknown:" Grid.Row="3" Grid.Column="0" Padding="0,0,10,0" />
+						<TextBlock Text="{Binding Right,   FallbackValue=100}" Grid.Row="0" Grid.Column="1" Padding="0,0,10,0" />
+						<TextBlock Text="{Binding Wrong,   FallbackValue=100}" Grid.Row="1" Grid.Column="1" Padding="0,0,10,0" />
+						<TextBlock Text="{Binding Total,   FallbackValue=100}" Grid.Row="2" Grid.Column="1" Padding="0,0,10,0" />
+						<TextBlock Text="{Binding Unknown, FallbackValue=100}" Grid.Row="3" Grid.Column="1" Padding="0,0,10,0" />
+						<TextBlock Text="{Binding RightPercent, Converter={StaticResource StringConverter}, ConverterParameter=P1, FallbackValue=100%}" Grid.Row="0" Grid.Column="2" />
+						<TextBlock Text="{Binding WrongPercent, Converter={StaticResource StringConverter}, ConverterParameter=P1, FallbackValue=100%}" Grid.Row="1" Grid.Column="2" />
+						<Image Source="{Binding ImgPercent, Converter={StaticResource RightToImg}, FallbackValue=Assets/Blaubart.png}" Grid.Row="0" Grid.Column="4" Grid.RowSpan="5" />
+						<Button Content="Back to Main Menu" HorizontalAlignment="Stretch" Click="BackToMain_Click" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="5" />
+						<Button Content="Quiz Again"        HorizontalAlignment="Stretch" Click="Restart_Click"    Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="5" />
+						<TextBlock Text="some more statistics stuff + a user ranking belongs here" Grid.Row="5" Grid.ColumnSpan="4"/>
+					</Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--Question Marker-->
+    <Style x:Key="QuestionMarkerStyle" TargetType="ListBox">
+        <Setter Property="Foreground"                                 Value="{StaticResource ListBoxForegroundThemeBrush}"/>
+        <Setter Property="Background"                                 Value="Transparent"/>
+        <Setter Property="BorderBrush"                                Value="Transparent"/>
+        <Setter Property="BorderThickness"                            Value="{StaticResource ListBoxBorderThemeThickness}"/>
+        <Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Disabled"/>
+        <Setter Property="ScrollViewer.VerticalScrollBarVisibility"   Value="Disabled"/>
+        <Setter Property="ScrollViewer.HorizontalScrollMode"          Value="Enabled"/>
+        <Setter Property="ScrollViewer.IsHorizontalRailEnabled"       Value="True"/>
+        <Setter Property="ScrollViewer.VerticalScrollMode"            Value="Disabled"/>
+        <Setter Property="ScrollViewer.IsHorizontalRailEnabled"       Value="True"/>
+        <Setter Property="ScrollViewer.ZoomMode"                      Value="Disabled"/>
+        <Setter Property="IsTabStop"                                  Value="False"/>
+        <Setter Property="TabNavigation"                              Value="Once"/>
+        <Setter Property="FontFamily"                                 Value="{StaticResource ContentControlThemeFontFamily}"/>
+        <Setter Property="FontSize"                                   Value="{StaticResource ControlContentThemeFontSize}"/>
+        <Setter Property="ItemsPanel">
+            <Setter.Value>
+                <ItemsPanelTemplate>
+                    <VirtualizingStackPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
+                </ItemsPanelTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListBox">
+                    <Border x:Name="LayoutRoot" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}">
+                        <ScrollViewer x:Name="ScrollViewer" HorizontalScrollMode="{TemplateBinding ScrollViewer.HorizontalScrollMode}" HorizontalScrollBarVisibility="{TemplateBinding ScrollViewer.HorizontalScrollBarVisibility}" IsHorizontalRailEnabled="{TemplateBinding ScrollViewer.IsHorizontalRailEnabled}" IsVerticalRailEnabled="{TemplateBinding ScrollViewer.IsVerticalRailEnabled}" Padding="{TemplateBinding Padding}" TabNavigation="{TemplateBinding TabNavigation}" VerticalScrollBarVisibility="{TemplateBinding ScrollViewer.VerticalScrollBarVisibility}" VerticalScrollMode="{TemplateBinding ScrollViewer.VerticalScrollMode}" ZoomMode="{TemplateBinding ScrollViewer.ZoomMode}">
+                            <ItemsPresenter/>
+                        </ScrollViewer>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--=================================================================
+                                Selectors
+    ==================================================================-->
+    <local:TestSelector x:Key="Stylist"     QuestionStyle="{StaticResource QuestionStyle}"           ResultStyle="{StaticResource ResultStyle}"/>
+    <local:TestSelector x:Key="StylistItem" QuestionStyle="{StaticResource QuestionMarkerItemStyle}" ResultStyle="{StaticResource ResultMarkerItemStyle}"/>
+</ResourceDictionary>
