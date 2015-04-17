@@ -15,5 +15,27 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\Classes.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\vocabulary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Settings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F604.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F60A.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F60D.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F60F.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F614.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F615.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F628.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F62C.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F62D.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1F635.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Blaubart.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\questions.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\vocab.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)Fonts\8-BIT WONDER.TTF" />
+    <Content Include="$(MSBuildThisFileDirectory)Fonts\Anita semi square.ttf" />
+    <Content Include="$(MSBuildThisFileDirectory)Fonts\Ricasso-Regular.ttf" />
+    <Content Include="$(MSBuildThisFileDirectory)Fonts\Setperset-Regular.ttf" />
   </ItemGroup>
 </Project>

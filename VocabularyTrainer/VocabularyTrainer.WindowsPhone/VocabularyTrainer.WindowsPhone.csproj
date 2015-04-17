@@ -85,11 +85,9 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Classes.cs" />
     <Compile Include="Quiz.xaml.cs">
       <DependentUpon>Quiz.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Settings.cs" />
     <Compile Include="SettingsPage.xaml.cs">
       <DependentUpon>SettingsPage.xaml</DependentUpon>
     </Compile>
@@ -100,25 +98,12 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\1F604.png" />
-    <Content Include="Assets\1F60A.png" />
-    <Content Include="Assets\1F60D.png" />
-    <Content Include="Assets\1F60F.png" />
-    <Content Include="Assets\1F614.png" />
-    <Content Include="Assets\1F615.png" />
-    <Content Include="Assets\1F628.png" />
-    <Content Include="Assets\1F62C.png" />
-    <Content Include="Assets\1F62D.png" />
-    <Content Include="Assets\1F635.png" />
     <Content Include="Assets\BadgeLogo.scale-100.png" />
-    <Content Include="Assets\Blaubart.png" />
-    <Content Include="Assets\questions.xml" />
     <Content Include="Assets\SplashScreen.scale-240.png" />
     <Content Include="Assets\Square150x150Logo.scale-100.png" />
     <Content Include="Assets\Square44x44Logo.scale-100.png" />
     <Content Include="Assets\Square71x71Logo.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
-    <Content Include="Assets\vocab.xml" />
     <Content Include="Assets\Wide310x150Logo.scale-100.png" />
     <Content Include="Assets\Wide310x150Logo.scale-140.png" />
     <Content Include="Assets\Wide310x150Logo.scale-240.png" />
@@ -144,18 +129,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Fonts\8-BIT WONDER.TTF" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Fonts\Ricasso-Regular.ttf" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Fonts\Setperset-Regular.ttf" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Fonts\Anita semi square.ttf" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
     <VisualStudioVersion>12.0</VisualStudioVersion>

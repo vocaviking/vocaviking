@@ -8,15 +8,19 @@ Assets\1F628.png
 Assets\1F62C.png
 Assets\1F62D.png
 Assets\1F635.png
-Assets\BadgeLogo.scale-100.png
 Assets\Blaubart.png
 Assets\questions.xml
+Assets\vocab.xml
+Fonts\8-BIT WONDER.TTF
+Fonts\Anita semi square.ttf
+Fonts\Ricasso-Regular.ttf
+Fonts\Setperset-Regular.ttf
+Assets\BadgeLogo.scale-100.png
 Assets\SplashScreen.scale-240.png
 Assets\Square150x150Logo.scale-100.png
 Assets\Square44x44Logo.scale-100.png
 Assets\Square71x71Logo.scale-100.png
 Assets\StoreLogo.scale-100.png
-Assets\vocab.xml
 Assets\Wide310x150Logo.scale-100.png
 Assets\Wide310x150Logo.scale-140.png
 Assets\Wide310x150Logo.scale-240.png
@@ -27,7 +31,3 @@ SettingsPage.xbf
 Themes\Generic.xbf
 Themes\QuestionListTemplate.xbf
 VocabularyTrainer.WindowsPhone.xr.xml
-Fonts\8-BIT WONDER.TTF
-Fonts\Anita semi square.ttf
-Fonts\Ricasso-Regular.ttf
-Fonts\Setperset-Regular.ttf
