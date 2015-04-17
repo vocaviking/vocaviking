@@ -1,5 +1,5 @@
 # vocaviking
-Your manly Vocabulary Trainer for Windows and Windows Phone
+Your vikingly Vocabulary Trainer for Windows and Windows Phone
 
 The goal of this project is to create a Vocabulary Training App for Windows and Windows Phone.
 For now the target languages are Japanese and English, but in the future internationalization is planned.
