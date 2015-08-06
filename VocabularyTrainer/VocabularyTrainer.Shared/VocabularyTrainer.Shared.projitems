@@ -37,5 +37,6 @@
     <Content Include="$(MSBuildThisFileDirectory)Fonts\Anita semi square.ttf" />
     <Content Include="$(MSBuildThisFileDirectory)Fonts\Ricasso-Regular.ttf" />
     <Content Include="$(MSBuildThisFileDirectory)Fonts\Setperset-Regular.ttf" />
+    <Content Include="$(MSBuildThisFileDirectory)Notes.txt" />
   </ItemGroup>
 </Project>
